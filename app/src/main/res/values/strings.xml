@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">beagle-sample</string>
+    <string name="open_debug_menu">デバッグメニューを開く</string>
+</resources>
